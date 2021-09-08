@@ -1,6 +1,6 @@
 # curso: React Native
-# Entendendo Slider
-    * Link:: https://www.youtube.com/watch?v=l96OVIYBcmI
+# Entendendo TodoList
+    * Link:: https://www.youtube.com/watch?v=abvpbrwd6ek
         * Criando projeto expo init app
     * biblioteca:: escolha uma opção
         * 1. expo install react-native-app-intro-slider
